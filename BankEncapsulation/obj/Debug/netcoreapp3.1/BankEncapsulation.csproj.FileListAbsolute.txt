@@ -1,0 +1,12 @@
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.csprojAssemblyReference.cache
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.AssemblyInfoInputs.cache
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.AssemblyInfo.cs
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.deps.json
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.runtimeconfig.json
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.runtimeconfig.dev.json
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.dll
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.pdb
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.dll
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.pdb
+/Users/walterbrunopradovieira/repos/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.genruntimeconfig.cache
